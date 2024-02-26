@@ -131,7 +131,7 @@ This README provides a comprehensive overview of the OHT Data Insights project c
 
 1.Vishnu Priya Ashok Kumar
 2.Adewale Dolapo
-3.Shivangi Krishna
+3.Shivangi Koltharkar
 
 ## Acknowledgments
 
