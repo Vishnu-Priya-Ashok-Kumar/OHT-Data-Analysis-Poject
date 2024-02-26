@@ -14,6 +14,8 @@
 11. [Data Analysis Overview](#data-analysis-overview)
 12. [Issues Analysis](#issues-analysis)
 13. [Conclusion](#conclusion)
+14. [Contributors](#Contributors)
+15. [Acknowledgments](#Acknowledgments)
   
 ## Project Overview
 
@@ -123,3 +125,14 @@ The project involves addressing multiple issues identified during the analysis:
 ## Conclusion
 
 This README provides a comprehensive overview of the OHT Data Insights project conducted for Your Phone Supplier, Inc. It outlines the objectives, methodologies, and key findings of the data analysis endeavor. By analyzing various aspects of phone system operations and agent performance, the project aimed to enhance customer service efficiency for OHT. Through thorough examination of historical call data and implementation of insightful analyses, valuable insights were gained to inform staffing and operational decisions. The documentation serves as a valuable reference for stakeholders involved in understanding and interpreting the project outcomes, paving the way for informed decision-making and continuous improvement in customer service operations.
+
+
+## Contributors
+
+1.Vishnu Priya Ashok Kumar
+2.Adewale Dolapo
+3.Shivangi Krishna
+
+## Acknowledgments
+
+Special thanks to [Academic Team No 8] for their support and guidance throughout this project.
